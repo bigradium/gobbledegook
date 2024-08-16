@@ -1,0 +1,14 @@
+*.swp
+*.swo
+
+*.o
+*.a
+.deps
+
+Makefile
+config.h
+config.log
+config.status
+
+src/standalone
+stamp-h1
